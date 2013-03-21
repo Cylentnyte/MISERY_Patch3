@@ -103,15 +103,15 @@
     <text>These handmade stalker outfits are an effective combination of twin-layered rubberized fabric and a light military bulletproof vest. Despite the vest's inadequate protection against even small-caliber rounds, the suit enjoys great popularity due to its low cost and modification potential. Comes with built-in artifact containers and room for expansion.</text>
   </string>
   <string id="svoboda_heavy_outfit_name">
-    <text>Freedom Guard bodysuit</text>
+    <text>Guardian of Freedom suit</text>
   </string>
   <string id="svoboda_heavy_outfit_description">
-    <text>This stalker bodysuit with reinforced body armor made by Freedom craftsmen represents a good compromise between combat and anomaly protection. The built-in body armor comprises armor plating and ten Kevlar layers, capable of stopping a pistol bullet. The suit uses the relatively expensive Sovereign compound for anomaly protection. Comes with an artifact container.</text>
+    <text>This stalker bodysuit, complete with bulletproof vest and artifact container, was handmade by Freedom's craftsmen to represent a good compromise between combat and anomaly protection. The vest can effectively stop pistol bullets with its reinforced zirconium plating and almost a dozen overlapping layers of Kevlar. The suit itself is double-layered, with specially treated leather and asbestos yarn providing adequate protection from radiation and weak anomalies.</text>
   </string>
   <string id="svoboda_light_outfit_name">
-    <text>Wind of Freedom bodysuit</text>
+    <text>Wind of Freedom suit</text>
   </string>
   <string id="svoboda_light_outfit_description">
-    <text>This lightweight stalker bodysuit is made by Freedom craftsmen. The suit's fabric is treated with Horizon, a special solution developed by the faction by trial and error to increase resistance to anomalies. Like the Sunrise suit, the Wind of Freedom comes with built-in body armor and artifact containers.</text>
+    <text>This lightweight stalker bodysuit was modified by Freedom's master craftsmen for extra mobility throughout the Zone. The outfit is made from specially treated leather and asbestos yarn to provide decent protection from radiation and weak anomalies, as well as a light bulletproof vest with reinforced Kevlar plates underneath. Comes standard with two artifact containers and lots of room for expansion.</text>
   </string>
 </string_table>
