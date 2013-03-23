@@ -1,228 +1,231 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-  <string id="st_antirad">
-    <text>Anti-radiation drugs</text>
-  </string>
-  <string id="st_antirad_descr">
-    <text>Mexamine anti-radiation medicine is a common sight in the Zone. When used, it causes constriction of peripheral blood vessels and oxygen deprivation in order to treat radiation sickness. Most people tolerate this drug, although in some cases slight nausea, dizziness, abdominal pain or vomiting can occur.</text>
-  </string>
-  <string id="st_bandage">
-    <text>Bandage</text>
-  </string>
-  <string id="st_bandage_descr">
-    <text>An aseptic bandage roll, designed to stop bleeding and prevent wound infection. In case of minor lacerations simply dressing the wound suffices. More serious injuries, such as arterial bleeding, may require multiple applications or medical attention to treat fully.</text>
-  </string>
-  <string id="st_batteries_name">
-    <text>Battery pack</text>
-  </string>
-  <string id="st_batteries_descr">
-    <text>A pack of fully charged batteries for the use of your flashlight, PDA, nightvision goggles, and other electronic devices. Remember to change regularly.</text>
-  </string>
-  <string id="st_binocular_name">
-    <text>Military Binoculars</text>
-  </string>
-  <string id="st_binocular_descr">
-    <text>Standard issue military binoculars with adjustable magnification (up to 7.5x). Makes examining distant objects throughout the Zone much easier.</text>
-  </string>
-  <string id="st_bolt">
-    <text>Bolt</text>
-  </string>
-  <string id="st_bread">
-    <text>Bread loaf</text>
-  </string>
-  <string id="st_bread_descr">
-    <text>A fine loaf of bread, masterfully baked by Nimble's wife living outside the Zone. Although initially sold by Nimble during his first forays into the area, the success of his gun-running business has diverted all of his attention to satisfying wealthier clients. Now, Stalkers are well-fed by the barkeeps he helps to stock.</text>
-  </string>
-  <string id="st_breadold">
-    <text>Leftover bread loaf</text>
-  </string>
-  <string id="st_breadold_descr">
-    <text>A once scrumptious loaf of bread, now partially eaten and stale with age.</text>
-  </string>
-  <string id="st_cigarettes">
-    <text>Pack of strong cigarettes</text>
-  </string>
-  <string id="st_cigarettes_descr">
-    <text>Cigarettes calm your nerves when you need to settle your mental state and fight your hunger in an alternative way. They are rare in the Zone and quite valuable.</text>
-  </string>
-  <string id="st_conserva">
-    <text>Can of tuna fish</text>
-  </string>
-  <string id="st_conserva_descr">
-    <text>A tin can of tuna, originating in an army warehouse raided by stalkers. The manufacturer is unknown, as the label fell off a long time ago. It also looks like the expiration date has come and gone.</text>
-  </string>
-  <string id="st_detector1">
-    <text>Echo detector</text>
-  </string>
-  <string id="st_detector1_descr">
-    <text>This dated anomalous activity detector produces an alarm signal when nearby anomalous particles enter a special chamber. It can also register the presence of artifacts and measure the distance to the nearest one. The distance is indicated by the frequency of the sound the detector emits. To enable artifact search mode, open the device's front cover. Due to its simple design, Echo can only be used to locate the most common artifacts.</text>
-  </string>
-  <string id="st_detector2">
-    <text>Bear detector</text>
-  </string>
-  <string id="st_detector2_descr">
-    <text> A current generation anomaly detector. With an anomalous field locator and LED display, it can not only detect artifacts but also determine the direction in which they lie. To enable artifact search mode, flip open the front cover. A more advanced analysis chamber detects a wider range of artifacts, although the variety is limited to the outdated database hard coded into the device.</text>
-  </string>
-  <string id="st_detector3">
-    <text>Veles detector</text>
-  </string>
-  <string id="st_detector3_descr">
-    <text> A next generation scanner, widely used by scientists for research within the Zone. Utilizing three advanced detection ports, the device triangulates the location of the artifact and displays its location on the LCD screen. Of course, it will also detect radiation and anomalous fields. Thanks to its thorough search mode, it can detect all known artifacts.</text>
-  </string>
-  <string id="st_detector4">
-    <text>Svarog detector prototype</text>
-  </string>
-  <string id="st_detector4_descr">
-    <text> A prototype anomaly detector with extended functionality. In addition to detecting artifacts, its program can recognize and display previously catalogued positions of non-moving anomalies. Anomalies and artifacts both appear at their precise locations on the device's LCD display. With its intricate search software and extremely refined sensors, it can theoretically detect artifacts and anomalies with abnormal signatures yet to be analyzed by scientists.</text>
-  </string>
-  <string id="st_device_torch_name">
-    <text>Headlamp</text>
-  </string>
-  <string id="st_device_torch_descr">
-    <text>A standard head-mounted flashlight. Useful for stalkers who find themselves stranded after dark, but may attract trouble if used unwisely.</text>
-  </string>
-  <string id="st_drug_anabiotic">
-    <text>Anabiotics</text>
-  </string>
-  <string id="st_drug_anabiotic_descr">
-    <text>An experimental drug developed by Professor Ozersky for scientific research teams operating in the Zone. The capsule's outer layer of tetrodotoxin triggers a complete paralysis of the central nervous system, theoretically allowing an unprotected stalker to survive an emission. The time-released core of fampridine slowly counteracts the effects of the toxin and the body resumes normal function, hopefully after the emission has fully passed. The drug has not undergone clinical or field testing, which puts its effectiveness in doubt and raises the issue of possible side effects.</text>
-  </string>
-  <string id="st_drug_antidot">
-    <text>Antitoxins</text>
-  </string>
-  <string id="st_drug_antidot_descr">
-    <text>This sealed packet contains various single-use syringes and antitoxin capsules of metoclopramide, physostigmine, silibinin, allicin, atropine, pralidoxime chloride, and activated charcoal. The drugs are used to treat a wide range of natural and synthetic toxins, as well as preemptively counteract their effects before exposure. Although relatively common in the Zone, most stalkers rely on their suits and gas masks for protection rather than this long lasting drug.</text>
-  </string>
-  <string id="st_drug_booster">
-    <text>Hercules</text>
-  </string>
-  <string id="st_drug_booster_descr">
-    <text>The two main components in this fast-acting bodybuilding concoction are an anabolic steroid, methandrostenolone, and the amino acid beta-Alanine. Together they increase muscle tone and reduce lactic acid buildup, resulting in the ability to carry more without fatiguing as quickly. Commonly taken by stalkers during long raids and heavy hauls for it's long lasting effects.</text>
-  </string>
-  <string id="st_drug_coagulant">
-    <text>Vikasolum</text>
-  </string>
-  <string id="st_drug_coagulant_descr">
-    <text>A Ukrainian-synthesized equivalent of vitamin K, the effects of which promote blood coagulation within the body and slow the rate of bleeding. With the extent of injury occuring in the Zone on a daily basis, it's not hard to imagine why stalkers value this long-lasting drug so highly.</text>
-  </string>
-  <string id="st_drug_psy_blockade">
-    <text>Psy-block</text>
-  </string>
-  <string id="st_drug_psy_blockade_descr">
-    <text>A long-lasting drug that blocks avalanche-like nerve impulses within the brain, inducing a short-term loss of all emotion. It also gives the user an increased ability to differentiate between thoughts of their own and command hallucinations, such as those inflicted by a controller, thus diminishing their overall control. Used exclusively in the Zone to counteract the effects of anomalous psy-fields and weaken controller attacks. </text>
-  </string>
-  <string id="st_drug_radioprotector">
-    <text>Radioprotectant</text>
-  </string>
-  <string id="st_drug_radioprotector_descr">
-    <text>Packaged long-lasting doses of potassium iodide and indraline radioprotectants, which were previously included in CNPP personnel medkits. Used in the Zone instead of the excessively toxic cystamine hydrochloride, repeated use of which often caused death. Consume pills by mouth before exposure to reduce the effects of gamma radiation on the body.</text>
-  </string>
-  <string id="st_energy_drink">
-    <text>Strong energy drink</text>
-  </string>
-  <string id="st_energy_drink_descr">
-    <text>Often used on extended hikes through the Zone when stopping and resting is not possible. It contains easily digestible carbohydrates, as well as substances that trigger the release of adrenaline into the bloodstream. The resulting boost in energy can also overcome the effects of alcohol in the body. Due to it's high caffeine content, only one is recommended at a time.</text>
-  </string>
-  <string id="st_guitar_name">
-    <text>Guitar</text>
-  </string>
-  <string id="st_guitar_descr">
-    <text>A trusty guitar.</text>
-  </string>
-  <string id="st_harmonica_name">
-    <text>Harmonica</text>
-  </string>
-  <string id="st_harmonica_descr">
-    <text>For blues and prison romance lovers.</text>
-  </string>
-  <string id="st_identity_card_descr">
-    <text>A discrete ID card which reveals your true identity (keep it hidden). As a USS Sniper you are specialized in sniper rifles and hand guns. You are also trained in controlled breathing, making it easier to aim through optics at long distances. Years of conditioning and exercise has balanced with the countless hours of providing static overwatch, allowing you to maintain an average sprinting speed.</text>
-  </string>
-  <string id="st_joint">
-    <text>Cannabis joint</text>
-  </string>
-  <string id="st_joint_descr">
-    <text>A joint to calm and relax the mind. Especially soothing when combined with alcohol, although it will make you hungry very fast. These are valuable and hard to find in the Zone.</text>
-  </string>
-  <string id="st_kolbasa">
-    <text>Pack of old meat</text>
-  </string>
-  <string id="st_kolbasa_descr">
-    <text>A package containing a mixture of old bread and smelly pork meat, wrapped in soggy brown paper. The look and smell of this signals some of it is rotten.</text>
-  </string>
-  <string id="st_medkit">
-    <text>First-aid kit</text>
-  </string>
-  <string id="st_medkit_descr">
-    <text>An all-purpose medkit used to treat injuries of varying types and severity, such as common burns, wounds, or poisons. Considered an essential item among stalkers when traveling in the Zone. </text>
-  </string>
-  <string id="st_medkit_army">
-    <text>Trauma kit</text>
-  </string>
-  <string id="st_medkit_army_descr">
-    <text>A specialized medical kit for treating injuries on the battlefield. Includes kaolin-laced bandages for blood coagulation, ibuprofen painkillers, tetracycline-based antibiotics and beta-glucan immunity boosters. Moreover, a simple surgical kit for extracting shrapnel and bullets is included. Standard Army issue, occasionally used by Duty members. </text>
-  </string>
-  <string id="st_medkit_science">
-    <text>Scientific medkit</text>
-  </string>
-  <string id="st_medkit_science_descr">
-    <text>A medical kit designed specifically for work in the Zone. Includes medical equipment for treating general injuries as well as several doses of Vikasolum, Prussian Blue, batilol, and potassium iodide to counteract the effects of radiation poisoning.</text>
-  </string>
-  <string id="st_pda_name">
-    <text>My PDA</text>
-  </string>
-  <string id="st_pda_descr">
-    <text>My PDA with vital information about the Zone. It also contains a detailed military map of the area with areas of interest highlighted. The organizer software will help to keep me updated on current tasks.</text>
-  </string>
-  <string id="st_porn">
-    <text>Porn magazine</text>
-  </string>
-  <string id="st_porn_descr">
-    <text>100 pages of prime russian girls. A popular way of mentally getting away from The Zone for a moment.</text>
-  </string>
-  <string id="st_protein">
-    <text>Chocolate protein bar</text>
-  </string>
-  <string id="st_protein_descr">
-    <text>A healthy and nutritious protein bar for the constantly active stalker. You can keep these for many days before they lose their chewy consistency.</text>
-  </string>
-  <string id="st_rebirth">
-    <text>Axyltallisal "The Rebirth"</text>
-  </string>
-  <string id="st_rebirth_descr">
-    <text>Warning! Do not use in combination with ANY other drug. This small syringe contains a powerful concoction capable of knocking down even the hardiest of stalkers, but when you wake up (IF you wake up) you will feel reborn. Inject the syringe into the outside of your thigh when sitting down.</text>
-  </string>
-  <string id="st_repair_kit">
-    <text>Maintenance toolkit</text>
-  </string>
-  <string id="st_repair_kit_descr">
-    <text>This basic toolkit contains all the necessary oils, tools, and parts for the light maintenance of equipment on-the-go. With a little jury-rigging, you can even repair completely inoperable equipment to a relatively reliable state. Intricate or complex repairs, however, will require the expertise of a technician to completely restore the item.</text>
-  </string>
-  <string id="st_sleepingpills_descr">
-    <text>A package of small white sleeping pills, each containing a strong blend of melatonin, serotonin, and tryptophan. When used, the body is overwhelmed by the same chemicals it produces naturally before and during sleep. Take with water 5 minutes before rest.</text>
-  </string>
-  <string id="st_survivalguide">
-    <text>Ukrainian Security Service Survival Guide</text>
-  </string>
-  <string id="st_survivalguide_descr">
-    <text>You have studied this survival guide many times and believe the only use for it now is in exchange for some quick cash, as stalkers might want to have this book when exploring the area.</text>
-  </string>
-  <string id="st_tea">
-    <text>Beard's tea</text>
-  </string>
-  <string id="st_tea_descr">
-    <text>Beard's popular hot tea made from a mixture of sugar, harmless dried mushrooms, and boiled water claimed to be radiation-free. Stalkers able to pay the price prefer to stock up on this herbal tonic before long trips into the Zone. It's a good and healthy alternative to fighting off sleep or staying warm on a cold night.</text>
-  </string>
-  <string id="st_vodka">
-    <text>Stolichnaya vodka</text>
-  </string>
-  <string id="st_vodka_descr">
-    <text>A strong Russian vodka from the Kaliningrad region. Goes down easily and reduces the effects of radiation, but for obvious reasons should be enjoyed in moderation.</text>
-  </string>
-  <string id="st_water_drink">
-    <text>Sparkling water</text>
-  </string>
-  <string id="st_water_drink_descr">
-    <text>Sparkling water for the thirsty stalker. Along with replacing lost fluids, the carbonation has an exhilarating effect on the body.</text>
-  </string>
+	<!-- FOOD AND DRINK -->
+	<string id="st_bread">
+		<text>Bread loaf</text>
+	</string>
+	<string id="st_bread_descr">
+		<text>A fine loaf of bread, masterfully baked by Nimble's wife living outside the Zone. Although initially sold by Nimble during his first forays into the area, the success of his gun-running business has diverted all of his attention to satisfying wealthier clients. Now, Stalkers are well-fed by the barkeeps he helps to stock.</text>
+	</string>
+	<string id="st_breadold">
+		<text>Leftover bread loaf</text>
+	</string>
+	<string id="st_breadold_descr">
+		<text>A once scrumptious loaf of bread, now partially eaten and stale with age.</text>
+	</string>
+	<string id="st_conserva">
+		<text>Can of tuna fish</text>
+	</string>
+	<string id="st_conserva_descr">
+		<text>A tin can of tuna, originating in an army warehouse raided by stalkers. The manufacturer is unknown, as the label fell off a long time ago. It also looks like the expiration date has come and gone.</text>
+	</string>
+	<string id="st_energy_drink">
+		<text>Strong energy drink</text>
+	</string>
+	<string id="st_energy_drink_descr">
+		<text>Often used on extended hikes through the Zone when stopping and resting is not possible. It contains easily digestible carbohydrates, as well as substances that trigger the release of adrenaline into the bloodstream. The resulting boost in energy can also overcome the effects of alcohol in the body. Due to it's high caffeine content, only one is recommended at a time.</text>
+	</string>
+	<string id="st_kolbasa">
+		<text>Pack of old meat</text>
+	</string>
+	<string id="st_kolbasa_descr">
+		<text>A package containing a mixture of old bread and smelly pork meat, wrapped in soggy brown paper. The look and smell of this signals some of it is rotten.</text>
+	</string>
+	<string id="st_protein">
+		<text>Chocolate protein bar</text>
+	</string>
+	<string id="st_protein_descr">
+		<text>A healthy and nutritious protein bar for the constantly active stalker. You can keep these for many days before they lose their chewy consistency.</text>
+	</string>
+	<string id="st_tea">
+		<text>Beard's tea</text>
+	</string>
+	<string id="st_tea_descr">
+		<text>Beard's popular hot tea made from a mixture of sugar, harmless dried mushrooms, and boiled water claimed to be radiation-free. Stalkers able to pay the price prefer to stock up on this herbal tonic before long trips into the Zone. It's a good and healthy alternative to fighting off sleep or staying warm on a cold night.</text>
+	</string>
+	<string id="st_vodka">
+		<text>Stolichnaya vodka</text>
+	</string>
+	<string id="st_vodka_descr">
+		<text>A strong Russian vodka from the Kaliningrad region. Goes down easily and reduces the effects of radiation, but for obvious reasons should be enjoyed in moderation.</text>
+	</string>
+	<string id="st_water_drink">
+		<text>Sparkling water</text>
+	</string>
+	<string id="st_water_drink_descr">
+		<text>Sparkling water for the thirsty stalker. Along with replacing lost fluids, the carbonation has an exhilarating effect on the body.</text>
+	</string>
+	<!-- FIRST AID AND MEDICINE -->
+	<string id="st_antirad">
+		<text>Anti-radiation drugs</text>
+	</string>
+	<string id="st_antirad_descr">
+		<text>Mexamine anti-radiation medicine is a common sight in the Zone. When used, it causes constriction of peripheral blood vessels and oxygen deprivation in order to treat radiation sickness. Most people tolerate this drug, although in some cases slight nausea, dizziness, abdominal pain or vomiting can occur.</text>
+	</string>
+	<string id="st_bandage">
+		<text>Bandage</text>
+	</string>
+	<string id="st_bandage_descr">
+		<text>An aseptic bandage roll, designed to stop bleeding and prevent wound infection. In case of minor lacerations simply dressing the wound suffices. More serious injuries, such as arterial bleeding, may require multiple applications or medical attention to treat fully.</text>
+	</string>
+	<string id="st_cigarettes">
+		<text>Pack of strong cigarettes</text>
+	</string>
+	<string id="st_cigarettes_descr">
+		<text>Cigarettes calm your nerves when you need to settle your mental state and fight your hunger in an alternative way. They are rare in the Zone and quite valuable.</text>
+	</string>
+	<string id="st_drug_anabiotic">
+		<text>Anabiotics</text>
+	</string>
+	<string id="st_drug_anabiotic_descr">
+		<text>An experimental drug developed by Professor Ozersky for scientific research teams operating in the Zone. The capsule's outer layer of tetrodotoxin triggers a complete paralysis of the central nervous system, theoretically allowing an unprotected stalker to survive an emission. The time-released core of fampridine slowly counteracts the effects of the toxin and the body resumes normal function, hopefully after the emission has fully passed. The drug has not undergone clinical or field testing, which puts its effectiveness in doubt and raises the issue of possible side effects.</text>
+	</string>
+	<string id="st_drug_antidot">
+		<text>Antitoxins</text>
+	</string>
+	<string id="st_drug_antidot_descr">
+		<text>This sealed packet contains various single-use syringes and antitoxin capsules of metoclopramide, physostigmine, silibinin, allicin, atropine, pralidoxime chloride, and activated charcoal. The drugs are used to treat a wide range of natural and synthetic toxins, as well as preemptively counteract their effects before exposure. Although relatively common in the Zone, most stalkers rely on their suits and gas masks for protection rather than this long lasting drug.</text>
+	</string>
+	<string id="st_drug_booster">
+		<text>Hercules</text>
+	</string>
+	<string id="st_drug_booster_descr">
+		<text>The two main components in this fast-acting bodybuilding concoction are an anabolic steroid, methandrostenolone, and the amino acid beta-Alanine. Together they increase muscle tone and reduce lactic acid buildup, resulting in the ability to carry more without fatiguing as quickly. Commonly taken by stalkers during long raids and heavy hauls for it's long lasting effects.</text>
+	</string>
+	<string id="st_drug_coagulant">
+		<text>Vikasolum</text>
+	</string>
+	<string id="st_drug_coagulant_descr">
+		<text>A Ukrainian-synthesized equivalent of vitamin K, the effects of which promote blood coagulation within the body and slow the rate of bleeding. With the extent of injury occuring in the Zone on a daily basis, it's not hard to imagine why stalkers value this long-lasting drug so highly.</text>
+	</string>
+	<string id="st_drug_psy_blockade">
+		<text>Psy-block</text>
+	</string>
+	<string id="st_drug_psy_blockade_descr">
+		<text>A long-lasting drug that blocks avalanche-like nerve impulses within the brain, inducing a short-term loss of all emotion. It also gives the user an increased ability to differentiate between thoughts of their own and command hallucinations, such as those inflicted by a controller, thus diminishing their overall control. Used exclusively in the Zone to counteract the effects of anomalous psy-fields and weaken controller attacks. </text>
+	</string>
+	<string id="st_drug_radioprotector">
+		<text>Radioprotectant</text>
+	</string>
+	<string id="st_drug_radioprotector_descr">
+		<text>Packaged long-lasting doses of potassium iodide and indraline radioprotectants, which were previously included in CNPP personnel medkits. Used in the Zone instead of the excessively toxic cystamine hydrochloride, repeated use of which often caused death. Consume pills by mouth before exposure to reduce the effects of gamma radiation on the body.</text>
+	</string>
+	<string id="st_joint">
+		<text>Cannabis joint</text>
+	</string>
+	<string id="st_joint_descr">
+		<text>A joint to calm and relax the mind. Especially soothing when combined with alcohol, although it will make you hungry very fast. These are valuable and hard to find in the Zone.</text>
+	</string>
+	<string id="st_medkit">
+		<text>First-aid kit</text>
+	</string>
+	<string id="st_medkit_descr">
+		<text>An all-purpose medkit used to treat injuries of varying types and severity, such as common burns, wounds, or poisons. Considered an essential item among stalkers when traveling in the Zone. </text>
+	</string>
+	<string id="st_medkit_army">
+		<text>Trauma kit</text>
+	</string>
+	<string id="st_medkit_army_descr">
+		<text>A specialized medical kit for treating injuries on the battlefield. Includes kaolin-laced bandages for blood coagulation, ibuprofen painkillers, tetracycline-based antibiotics and beta-glucan immunity boosters. Moreover, a simple surgical kit for extracting shrapnel and bullets is included. Standard Army issue, occasionally used by Duty members. </text>
+	</string>
+	<string id="st_medkit_science">
+		<text>Scientific medkit</text>
+	</string>
+	<string id="st_medkit_science_descr">
+		<text>A medical kit designed specifically for work in the Zone. Includes medical equipment for treating general injuries as well as several doses of Vikasolum, Prussian Blue, batilol, and potassium iodide to counteract the effects of radiation poisoning.</text>
+	</string>
+	<string id="st_rebirth">
+		<text>Axyltallisal "The Rebirth"</text>
+	</string>
+	<string id="st_rebirth_descr">
+		<text>Warning! Do not use in combination with ANY other drug. This small syringe contains a powerful concoction capable of knocking down even the hardiest of stalkers, but when you wake up (IF you wake up) you will feel reborn. Inject the syringe into the outside of your thigh when sitting down.</text>
+	</string>
+	<string id="st_sleepingpills_descr">
+		<text>A package of small white sleeping pills, each containing a strong blend of melatonin, serotonin, and tryptophan. When used, the body is overwhelmed by the same chemicals it produces naturally before and during sleep. Take with water 5 minutes before rest.</text>
+	</string>
+	<!-- MISC -->
+	<string id="st_batteries_name">
+		<text>Battery pack</text>
+	</string>
+	<string id="st_batteries_descr">
+		<text>A pack of fully charged batteries for the use of your flashlight, PDA, nightvision goggles, and other electronic devices. Remember to change regularly.</text>
+	</string>
+	<string id="st_binocular_name">
+		<text>Military Binoculars</text>
+	</string>
+	<string id="st_binocular_descr">
+		<text>Standard issue military binoculars with adjustable magnification (up to 7.5x). Makes examining distant objects throughout the Zone much easier.</text>
+	</string>
+	<string id="st_bolt">
+		<text>Bolt</text>
+	</string>
+	<string id="st_detector1">
+		<text>Echo detector</text>
+	</string>
+	<string id="st_detector1_descr">
+		<text>This dated anomalous activity detector produces an alarm signal when nearby anomalous particles enter a special chamber. It can also register the presence of artifacts and measure the distance to the nearest one. The distance is indicated by the frequency of the sound the detector emits. To enable artifact search mode, open the device's front cover. Due to its simple design, Echo can only be used to locate the most common artifacts.</text>
+	</string>
+	<string id="st_detector2">
+		<text>Bear detector</text>
+	</string>
+	<string id="st_detector2_descr">
+		<text> A current generation anomaly detector. With an anomalous field locator and LED display, it can not only detect artifacts but also determine the direction in which they lie. To enable artifact search mode, flip open the front cover. A more advanced analysis chamber detects a wider range of artifacts, although the variety is limited to the outdated database hard coded into the device.</text>
+	</string>
+	<string id="st_detector3">
+		<text>Veles detector</text>
+	</string>
+	<string id="st_detector3_descr">
+		<text> A next generation scanner, widely used by scientists for research within the Zone. Utilizing three advanced detection ports, the device triangulates the location of the artifact and displays its location on the LCD screen. Of course, it will also detect radiation and anomalous fields. Thanks to its thorough search mode, it can detect all known artifacts.</text>
+	</string>
+	<string id="st_detector4">
+		<text>Svarog detector prototype</text>
+	</string>
+	<string id="st_detector4_descr">
+		<text> A prototype anomaly detector with extended functionality. In addition to detecting artifacts, its program can recognize and display previously catalogued positions of non-moving anomalies. Anomalies and artifacts both appear at their precise locations on the device's LCD display. With its intricate search software and extremely refined sensors, it can theoretically detect artifacts and anomalies with abnormal signatures yet to be analyzed by scientists.</text>
+	</string>
+	<string id="st_device_torch_name">
+		<text>Headlamp</text>
+	</string>
+	<string id="st_device_torch_descr">
+		<text>A standard head-mounted flashlight. Useful for stalkers who find themselves stranded after dark, but may attract trouble if used unwisely.</text>
+	</string>
+	<string id="st_guitar_name">
+		<text>Guitar</text>
+	</string>
+	<string id="st_guitar_descr">
+		<text>A trusty guitar.</text>
+	</string>
+	<string id="st_harmonica_name">
+		<text>Harmonica</text>
+	</string>
+	<string id="st_harmonica_descr">
+		<text>For blues and prison romance lovers.</text>
+	</string>
+	<string id="st_identity_card_descr">
+		<text>A discrete ID card which reveals your true identity (keep it hidden). As a USS Sniper you are specialized in sniper rifles and hand guns. You are also trained in controlled breathing, making it easier to aim through optics at long distances. Years of conditioning and exercise has balanced with the countless hours of providing static overwatch, allowing you to maintain an average sprinting speed.</text>
+	</string>
+	<string id="st_pda_name">
+		<text>My PDA</text>
+	</string>
+	<string id="st_pda_descr">
+		<text>My PDA with vital information about the Zone. It also contains a detailed military map of the area with areas of interest highlighted. The organizer software will help to keep me updated on current tasks.</text>
+	</string>
+	<string id="st_porn">
+		<text>Porn magazine</text>
+	</string>
+	<string id="st_porn_descr">
+		<text>100 pages of prime russian girls. A popular way of mentally getting away from The Zone for a moment.</text>
+	</string>
+	<string id="st_repair_kit">
+		<text>Maintenance toolkit</text>
+	</string>
+	<string id="st_repair_kit_descr">
+		<text>This basic toolkit contains all the necessary oils, tools, and parts for the light maintenance of equipment on-the-go. With a little jury-rigging, you can even repair completely inoperable equipment to a relatively reliable state. Intricate or complex repairs, however, will require the expertise of a technician to completely restore the item.</text>
+	</string>
+	<string id="st_survivalguide">
+		<text>Ukrainian Security Service Survival Guide</text>
+	</string>
+	<string id="st_survivalguide_descr">
+		<text>You have studied this survival guide many times and believe the only use for it now is in exchange for some quick cash, as stalkers might want to have this book when exploring the area.</text>
+	</string>
 </string_table>
