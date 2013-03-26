@@ -26,7 +26,7 @@
  		<text>7.62x39mm FMJ</text> 
  	</string>
  	<string id="ammo-7.62x39_fmj_descr"> 
-		<text>The 7.62x39mm rifle cartridge was designed by the Soviet Union to handle the extremely harsh and frigid temperatures experienced throughout the country. Although initially intended for use in the RPD during World War II, the round is most commonly recognized for its use in the AK-47 and SKS, each of which enjoyed widespread popularity around the globe during the 20th century.</text>
+		<text>The 7.62x39mm rifle cartridge was designed by the Soviet Union to handle the extremely harsh and frigid temperatures experienced throughout the country. Although initially intended for the RPD during World War II, the round is most commonly recognized for its use in the AK-47 and SKS, each of which enjoyed widespread popularity around the globe during the 20th century.</text>
 	</string> 	
 	<string id="ammo-7.62x39_ap"> 
 		<text>7.62x39mm AP rounds</text> 
@@ -53,7 +53,7 @@
 		<text>7.62x51mm NATO AP</text>
 	</string>
 	<string id="ammo-7.62x51_ap_descr">
-		<text>A 7.62x51mm NATO variant with a steel core in place of the lead one, making it suitable for lightly armorer and bullet-resistant targets. An alternate ammunition for the HK417, SR-25, and TRG-42.</text>
+		<text>A 7.62x51mm NATO variant with a steel core in place of the lead one, making it suitable for lightly armored and bullet-resistant targets. An alternate ammunition for the HK417, SR-25, and TRG-42.</text>
 	</string>
 	<string id="ammo-7.62x54-7h14">
 		<text>7.62x54mmR 7N14 rounds</text>
@@ -71,43 +71,43 @@
 		<text>7.62x54mmR</text>
 	</string>
 	<string id="ammo-7.62x54-ap_descr">
-		<text>A mass-produced 7.62x54mmR caliber machine gun round, made cheaply and quickly to supply the many belt-fed PKMs in service. While technically the same caliber as the high-precision SVD, its poor manufacturing and inaccuracy make it unsuitable for firing over long distances. </text>
+		<text>A mass-produced 7.62x54mmR caliber machine gun round, made cheaply and quickly to supply the many belt-fed PKMs in service. While technically the same caliber as the high-precision SVD, its poor manufacturing and unreliable flight characteristics make it unsuitable for accurate long-distance fire.</text>
 	</string>
 	<string id="ammo-12x70-buck">
-		<text>12x70 shot rounds</text>
+		<text>12x70mm #00 buckshot rounds</text>
 	</string>
 	<string id="ammo-12x70-buck_s">
-		<text>12x70 shot </text>
+		<text>12x70mm #00 buckshot </text>
 	</string>
 	<string id="ammo-12x70-buck_descr">
-		<text>Standard 12-caliber round filled with 6 mm shot. Highly lethal at close range. Only suitable for use with smoothbore weapons.</text>
+		<text>A standard 12-gauge round filled with 9 lead pellets, each 8.38mm in diameter. Devastating and almost always lethal at close range against unarmored targets. Only suitable for use with smoothbore weapons.</text>
 	</string>
 	<string id="ammo-12x76-zhekan">
-		<text>12x76 slug rounds</text>
+		<text>12x76mm slug rounds</text>
 	</string>
 	<string id="ammo-12x76-zhekan_s">
-		<text>12x76 slug</text>
+		<text>12x76mm slug</text>
 	</string>
 	<string id="ammo-12x76-zhekan_descr">
-		<text>This heavy 12 caliber slug round is normally used for hunting big game, but is also good for other purposes. Instead of piercing, this hefty slug simply crushes through armor. </text>
-	</string>
-	<string id="ammo-5.45x39-ap">
-		<text>5.45x39 mm AP rounds</text>
-	</string>
-	<string id="ammo-5.45x39-ap_s">
-		<text>5.45x39 AP</text>
-	</string>
-	<string id="ammo-5.45x39-ap_descr">
-		<text>Military 5.45x39 7H22 caliber armor-piercing round for automatic rifles of Warsaw Pact countries. The bullet contains a hard-alloy armor piercing penetrator. Effective against body armor.</text>
+		<text>This heavy 12-gauge round is normally used for hunting big game, however its armor-penetrating characteristics has warranted its use for fending off armored targets within the Zone. Instead of piercing, this hefty lead slug simply punches through armor and crushes everything in its path.</text>
 	</string>
 	<string id="ammo-5.45x39-fmj">
-		<text>5.45x39 mm rounds</text>
+		<text>5.45x39mm FMJ rounds</text>
 	</string>
 	<string id="ammo-5.45x39-fmj_s">
-		<text>5.45x39</text>
+		<text>5.45x39mm FMJ</text>
 	</string>
 	<string id="ammo-5.45x39-fmj_descr">
-		<text>Military 5.45x39 7H10 caliber improved piercing round for automatic rifles of Warsaw Pact countries. Provides better accuracy than the 7.62 caliber round thanks to reduced recoil and a 100 meter increase in range.</text>
+		<text>A standard 5.45x39mm 5N7 caliber round, manufactured with an unhardened steel core and thin lead coating. Its light weight, small size, and high velocity produces little recoil, making it ideal for automatic fire in Warsaw Pact weaponry.</text>
+	</string>
+	<string id="ammo-5.45x39-ap">
+		<text>5.45x39mm AP rounds</text>
+	</string>
+	<string id="ammo-5.45x39-ap_s">
+		<text>5.45x39mm AP</text>
+	</string>
+	<string id="ammo-5.45x39-ap_descr">
+		<text>Military-grade 5.45x39mm 7N22 caliber armor-piercing round, designed for automatic rifles of Warsaw Pact countries. The bullet contains a sharpened steel penetrator and is very effective against body armor.</text>
 	</string>
 	<string id="ammo-5.56x45-ap">
 		<text>5.56x45 mm AP rounds</text>
